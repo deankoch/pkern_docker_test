@@ -1,0 +1,3 @@
+geopandas
+xarray
+rpy2
